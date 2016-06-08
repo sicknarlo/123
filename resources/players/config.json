@@ -1,0 +1,277 @@
+{
+	"type": "Collection",
+	"properties": {
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "name",
+			"order": 0
+		},
+		"position": {
+			"name": "position",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "position",
+			"order": 1
+		},
+		"team": {
+			"name": "team",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "team",
+			"order": 2
+		},
+		"draftYear": {
+			"name": "draftYear",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "draftYear",
+			"order": 3
+		},
+		"twitterUsername": {
+			"name": "twitterUsername",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "twitterUsername",
+			"order": 4
+		},
+		"statsID": {
+			"name": "statsID",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "statsID",
+			"order": 5
+		},
+		"weight": {
+			"name": "weight",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "weight",
+			"order": 6
+		},
+		"college": {
+			"name": "college",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "college",
+			"order": 7
+		},
+		"draftRound": {
+			"name": "draftRound",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "draftRound",
+			"order": 8
+		},
+		"height": {
+			"name": "height",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "height",
+			"order": 9
+		},
+		"rotoworldID": {
+			"name": "rotoworldID",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "rotoworldID",
+			"order": 10
+		},
+		"nflID": {
+			"name": "nflID",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "nflID",
+			"order": 11
+		},
+		"espnID": {
+			"name": "espnID",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "espnID",
+			"order": 12
+		},
+		"birthdate": {
+			"name": "birthdate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "birthdate",
+			"order": 13
+		},
+		"status": {
+			"name": "status",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "status",
+			"order": 14
+		},
+		"may16ADP": {
+			"name": "may16ADP",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "may16ADP",
+			"order": 15
+		},
+		"may16Value": {
+			"name": "may16Value",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "may16Value",
+			"order": 16
+		},
+		"apr16ADP": {
+			"name": "apr16ADP",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "apr16ADP",
+			"order": 17
+		},
+		"apr16Value": {
+			"name": "apr16Value",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "apr16Value",
+			"order": 18
+		},
+		"mar16ADP": {
+			"name": "mar16ADP",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "mar16ADP",
+			"order": 19
+		},
+		"mar16Value": {
+			"name": "mar16Value",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "mar16Value",
+			"order": 20
+		},
+		"feb16ADP": {
+			"name": "feb16ADP",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "feb16ADP",
+			"order": 21
+		},
+		"feb16Value": {
+			"name": "feb16Value",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "feb16Value",
+			"order": 22
+		},
+		"jan16ADP": {
+			"name": "jan16ADP",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "jan16ADP",
+			"order": 23
+		},
+		"jan16Value": {
+			"name": "jan16Value",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "jan16Value",
+			"order": 24
+		},
+		"dec15ADP": {
+			"name": "dec15ADP",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "dec15ADP",
+			"order": 25
+		},
+		"dec15Value": {
+			"name": "dec15Value",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "dec15Value",
+			"order": 26
+		},
+		"nov15ADP": {
+			"name": "nov15ADP",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "nov15ADP",
+			"order": 27
+		},
+		"nov15Value": {
+			"name": "nov15Value",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "nov15Value",
+			"order": 28
+		},
+		"oct15ADP": {
+			"name": "oct15ADP",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "oct15ADP",
+			"order": 29
+		},
+		"oct15Value": {
+			"name": "oct15Value",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "oct15Value",
+			"order": 30
+		},
+		"sept15ADP": {
+			"name": "sept15ADP",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "sept15ADP",
+			"order": 31
+		},
+		"sept15Value": {
+			"name": "sept15Value",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "sept15Value",
+			"order": 32
+		},
+		"trend": {
+			"name": "trend",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "trend",
+			"order": 33
+		}
+	}
+}
